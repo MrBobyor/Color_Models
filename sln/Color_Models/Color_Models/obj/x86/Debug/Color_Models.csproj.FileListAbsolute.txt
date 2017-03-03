@@ -1,0 +1,7 @@
+F:\Inf\sashka einstein\education\C#\lab.works\KG-2017\Color_Models\sln\Color_Models\Color_Models\obj\x86\Debug\Color_Models.Form1.resources
+F:\Inf\sashka einstein\education\C#\lab.works\KG-2017\Color_Models\sln\Color_Models\Color_Models\obj\x86\Debug\Color_Models.Properties.Resources.resources
+F:\Inf\sashka einstein\education\C#\lab.works\KG-2017\Color_Models\sln\Color_Models\Color_Models\obj\x86\Debug\Color_Models.csproj.GenerateResource.Cache
+F:\Inf\sashka einstein\education\C#\lab.works\KG-2017\Color_Models\sln\Color_Models\Color_Models\bin\Debug\Color_Models.exe
+F:\Inf\sashka einstein\education\C#\lab.works\KG-2017\Color_Models\sln\Color_Models\Color_Models\bin\Debug\Color_Models.pdb
+F:\Inf\sashka einstein\education\C#\lab.works\KG-2017\Color_Models\sln\Color_Models\Color_Models\obj\x86\Debug\Color_Models.exe
+F:\Inf\sashka einstein\education\C#\lab.works\KG-2017\Color_Models\sln\Color_Models\Color_Models\obj\x86\Debug\Color_Models.pdb
